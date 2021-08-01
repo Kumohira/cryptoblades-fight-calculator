@@ -2,6 +2,7 @@
 
 This is a Chrome extension that will help you to know the exact win rate percentage you have on each cryptoblades fight.
 
+DISCLAIMER: This is an independent development, I'm not part of the Cryptoblades team and this is not an official tool, if you have doubts you can always check the code :)
 ## How does it work?
 
 It will automatically collect all the data necessary to simulate a fight:
