@@ -1,8 +1,13 @@
-# CryptoBlades fight simulator
+# CryptoBlades fight calculator
 
 This is a Chrome extension that will help you to know the exact win rate percentage you have on each cryptoblades fight.
 
 DISCLAIMER: This is an independent development, I'm not part of the Cryptoblades team and this is not an official tool, if you have doubts you can always check the code :)
+
+## Thanks To
+This project is a fork !
+https://github.com/leonardo2rms/cryptoblades-fight-simulator
+
 ## How does it work?
 
 It will automatically collect all the data necessary to simulate a fight:
@@ -43,17 +48,15 @@ Now it should look like:
 
 ![alt text](./tutorial-images/enemy-selection.png)
 
-4. Search your extensions and click in the sword icon to open the popup of the fight simulator, it should like like this:
+4. Search your extensions and click in the sword icon to open the popup of the fight calculator, it should look like this:
    
 ![alt text](./tutorial-images/extension-popup.png)
 
-5. Now you just need to click "Fight!", and the extension will automatically simulate 10,000 fights against each enemy to give you the win rate % 
+5. Now you just need to click on it, and the extension will automatically simulate 10,000 fights against each enemy to give you the win rate % 
 
 6. Enjoy and **hodl** SKILL :)
    
 ![alt text](./tutorial-images/extension-working.png)
-![alt text](./tutorial-images/extension-working2.png)
-
 
 ## Support
 
@@ -62,19 +65,14 @@ I'm a lonely developer who is doing this for fun and to help people make more pr
 if you feel this is making you save time and make more money, you can always support me in different ways:
 * Sharing this tool with others
 * Starring this repository
-* Following me in my social networks "leonardo2rms" in Twitter and Instagram.
+* Following me in my social networks "kumohira" in Twitch and youtube.
 * Donating Crypto:
-  * SKILL: 0xBb90133f67569738e55C6cB7C9A3F4E9d1f5cF10
-  * BNB: 0xBb90133f67569738e55C6cB7C9A3F4E9d1f5cF10
-  * XCH (Chia): xch1j00342f9pdmj9n5rvj5ta6lftf72yzdd20d4wusmgyt3wpccqduq6vt977
-  * XRP: rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh MEMO:341268141
-  * BTC: 1E2W6GvdfeEMHyEPvngzbyJmHmB9oACeQF
-
-
-## Next versions
-
-This is just the beginning of this tool, I will improve tu UI and add more functionality that can help us make more money and save time while doing so, stay tuned.
-
+  * BTC: 1G3Xn5bGwDEwYtXj6Q1Dpe6V8oKzdmBEbV
+  * ETH: 0x67690547AD64E2C03f8Dd1285baDC1F02d2B992F
+  * BNB: 0x67690547AD64E2C03f8Dd1285baDC1F02d2B992F
+  * SKILL: 0x67690547AD64E2C03f8Dd1285baDC1F02d2B992F
+  * ADA: addr1q8vztwv4jalq7qx2mlxka3t7ylwmxvuhcqum3epe3e5m5hjqepcmuch2tcuh7awcct4stspxkt6rmwyma0d64g24lwsqsuy30f
+  
 
 
 

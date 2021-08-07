@@ -1,7 +1,7 @@
 {
-  "name": "Cryptoblade fight simulator",
+  "name": "Cryptoblade fight calculator",
   "description": "Extension to simulate fights using Cryptoblades fighting algorithm",
-  "version": "1.0",
+  "version": "0.1",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
@@ -13,5 +13,5 @@
     "48": "/images/sword48.png",
     "128": "/images/sword128.png"
   },
-  "permissions": ["storage", "activeTab", "scripting"]
+  "permissions": ["activeTab", "scripting"]
 }
