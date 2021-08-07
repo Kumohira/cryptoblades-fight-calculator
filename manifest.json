@@ -6,9 +6,7 @@
   "background": {
     "service_worker": "background.js"
   },
-  "action": {
-    "default_popup": "popup.html"
-  },
+  "action": {},
   "icons": {
     "16": "/images/sword16.png",
     "32": "/images/sword32.png",
